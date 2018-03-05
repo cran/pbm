@@ -1,0 +1,14 @@
+300b5b7336acd79b4131e73e1bf6dd66 *DESCRIPTION
+03ae3c90378833e585fa826f9be91f36 *LICENSE
+9ef58fd360c86c31a192ff1b94432139 *NAMESPACE
+8400a963ab9aedbe978a00c773ba1a04 *NEWS.md
+d33c68b160a782a7438c615acdf38663 *R/binding.r
+068e0ab9a163615dcbad38b22cc0c7f0 *build/vignette.rds
+43a0d0d8acaac50b57397e4081c12dee *inst/doc/vignette.R
+4bdc87d3b3296f45801b3d8d749f7a0c *inst/doc/vignette.Rmd
+bd1fc2215c88f42379e66a694aabbe8d *inst/doc/vignette.html
+2e7848bbe273cbeaa664a39f0d6ab227 *man/binding1to1.Rd
+66eb7fc12167e649aee8e5a8351c7af3 *man/binding2to1.Rd
+0400640dfc6848e957d62aea48b9c498 *tests/testthat.R
+6aa067bbbf6989dcd2789ac4c72a70f5 *tests/testthat/test_response_values.r
+4bdc87d3b3296f45801b3d8d749f7a0c *vignettes/vignette.Rmd
